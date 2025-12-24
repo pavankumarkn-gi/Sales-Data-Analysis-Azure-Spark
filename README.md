@@ -60,8 +60,7 @@ For security reasons, **Azure credentials and access keys are not included** in 
 They are configured only within the Azure Databricks environment.
 
  THANK YOU
----
-OUTPUT
+
 
 
 
